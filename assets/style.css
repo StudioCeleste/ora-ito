@@ -194,20 +194,3 @@ footer.site{border-top:1px solid var(--ink);margin-top:90px;padding:54px 0 70px}
 }
 
 
-/* Google Translate styling */
-.goog-te-banner-frame { display: none !important; }
-body { top: 0 !important; }
-#google_translate_element { display: flex; align-items: center; margin-left: 20px; }
-.goog-te-gadget-simple {
-  border: none !important;
-  background: transparent !important;
-  font-family: var(--mono) !important;
-  font-size: 11px !important;
-  text-transform: uppercase !important;
-  letter-spacing: .14em !important;
-  padding: 0 !important;
-}
-.goog-te-gadget-simple .goog-te-menu-value { color: var(--ink) !important; }
-.goog-te-gadget-simple .goog-te-menu-value span { border-left: none !important; color: var(--ink) !important; font-family: var(--mono) !important; }
-.goog-te-gadget-simple .goog-te-menu-value span:hover { color: var(--accent) !important; }
-.goog-te-gadget-icon { display: none !important; }
