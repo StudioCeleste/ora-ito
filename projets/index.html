@@ -21,6 +21,7 @@
   <button onclick="setFilter('architecture')">Architecture</button>
   <button onclick="setFilter('produit')">Produit</button>
   <button onclick="setFilter('transport')">Transport</button>
+  <button onclick="setFilter('virtual')">Virtual product</button>
 </div>
 
 <div class="grid"><a class="card" href="../studio/r17-electric-restomod.html" data-name="2024 auto car electric limitée prototype r17 renault restomod transport voiture édition"><div class="thumb"><img loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2024/10/R17_06_1960x1120_greyS.jpg" alt="R17 electric restomod"></div><span class="cap"><span class="idx">001</span><span class="tx"><h3>R17 electric restomod</h3><span class="m">Transport· 2024</span></span></span></a>
@@ -261,6 +262,7 @@
       btns.forEach(function(b){
         var t = b.textContent.toLowerCase();
         if(t === 'tous') t = '';
+        if(t === 'virtual product') t = 'virtual';
         if(t === search) {
           b.classList.add('active');
         } else {
