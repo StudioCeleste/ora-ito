@@ -81,7 +81,7 @@ nav.main a.active::before{content:'';position:absolute;left:-12px;top:50%;width:
 .card .cap .tx .m{font-family:var(--mono);font-size:10.5px;text-transform:uppercase;letter-spacing:.13em;color:var(--mute);margin-top:6px}
 
 /* detail */
-.detail{padding:46px 0 20px}
+.detail{padding-top:46px;padding-bottom:20px}
 .crumb{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.13em;color:var(--mute);margin-bottom:30px}
 .crumb a:hover{color:var(--accent)}
 .dhead{display:grid;grid-template-columns:1fr 300px;gap:40px;align-items:end;
