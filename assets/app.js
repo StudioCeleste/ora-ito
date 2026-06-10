@@ -20,3 +20,21 @@
     if(e.key==='Escape')close(); if(e.key==='ArrowRight')show(i+1); if(e.key==='ArrowLeft')show(i-1);
   });
 })();
+
+// Back to top button
+(function(){
+  var topBtn = document.createElement('button');
+  topBtn.id = 'back-to-top';
+  topBtn.innerHTML = '↑';
+  document.body.appendChild(topBtn);
+  window.addEventListener('scroll', function(){
+    if (window.scrollY > 300) {
+      topBtn.classList.add('show');
+    } else {
+      topBtn.classList.remove('show');
+    }
+  });
+  topBtn.addEventListener('click', function(){
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  });
+})();
