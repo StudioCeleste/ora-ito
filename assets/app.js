@@ -55,7 +55,32 @@
     var link = document.createElement('link');
     link.rel = 'icon';
     link.type = 'image/jpeg';
-    link.href = baseUrl + 'favicon/favicon.jpg';
+    link.href = baseUrl + 'assets/favicon/favicon.jpg';
     document.head.appendChild(link);
+  }
+})();
+
+
+// Inject Google Translate
+(function(){
+  var nav = document.querySelector('nav.main');
+  if(nav) {
+    var gt = document.createElement('div');
+    gt.id = 'google_translate_element';
+    nav.appendChild(gt);
+
+    window.googleTranslateElementInit = function() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'fr', 
+        includedLanguages: 'en,fr',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+        autoDisplay: false
+      }, 'google_translate_element');
+    };
+
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    document.head.appendChild(script);
   }
 })();
