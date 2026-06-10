@@ -60,27 +60,3 @@
   }
 })();
 
-
-// Inject Google Translate
-(function(){
-  var nav = document.querySelector('nav.main');
-  if(nav) {
-    var gt = document.createElement('div');
-    gt.id = 'google_translate_element';
-    nav.appendChild(gt);
-
-    window.googleTranslateElementInit = function() {
-      new google.translate.TranslateElement({
-        pageLanguage: 'fr', 
-        includedLanguages: 'en,fr',
-        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-        autoDisplay: false
-      }, 'google_translate_element');
-    };
-
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-    document.head.appendChild(script);
-  }
-})();
