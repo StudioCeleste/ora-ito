@@ -38,3 +38,24 @@
     window.scrollTo({top: 0, behavior: 'smooth'});
   });
 })();
+
+// Inject Favicon
+(function(){
+  var scripts = document.getElementsByTagName('script');
+  var appJsUrl = '';
+  for (var i = 0; i < scripts.length; i++) {
+    var src = scripts[i].getAttribute('src');
+    if (src && src.indexOf('assets/app.js') !== -1) {
+      appJsUrl = src;
+      break;
+    }
+  }
+  if (appJsUrl) {
+    var baseUrl = appJsUrl.replace('assets/app.js', '');
+    var link = document.createElement('link');
+    link.rel = 'icon';
+    link.type = 'image/jpeg';
+    link.href = baseUrl + 'favicon/favicon.jpg';
+    document.head.appendChild(link);
+  }
+})();
