@@ -21,7 +21,14 @@ collections:
       - {label: "Collection", name: "collection", widget: "string", required: false}
       - {label: "Année", name: "year", widget: "string", required: false}
       - {label: "Contenu Textuel", name: "body", widget: "markdown"}
-      - {label: "Galerie d'images", name: "gallery", widget: "list", field: {label: "Image", name: "image", widget: "image"}, required: false}
+      - label: "Galerie d'images"
+        name: "gallery"
+        widget: "list"
+        required: false
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
 
   - name: "news"
     label: "Actualités (News)"
@@ -35,4 +42,11 @@ collections:
       - {label: "Date", name: "published_date", widget: "string"}
       - {label: "Tag Projet", name: "project_tag", widget: "string", required: false}
       - {label: "Contenu Textuel", name: "body", widget: "markdown"}
-      - {label: "Galerie d'images", name: "gallery", widget: "list", field: {label: "Image", name: "image", widget: "image"}, required: false}
+      - label: "Galerie d'images"
+        name: "gallery"
+        widget: "list"
+        required: false
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
