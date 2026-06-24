@@ -1,0 +1,51 @@
+---
+layout: article.njk
+title: "Vogue — Inside the Opening of Alex Israel’s Batman Exhibition in Marseille"
+locale: "en"
+published_date: "July 8, 2019"
+Rubric: "Press"
+project_tag: "MAMO"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2019/07/WEARECONTENTS-MAMO-ISRAEL-DSC02245.jpg"
+---
+<!-- wp:paragraph -->
+<p>With his much-anticipated collaboration with Rimowa launching June 13 (the brand’s signature aluminum suitcase revamped in a color palette inspired by the Californian sunset), multi-disciplinary Los Angeles–based contemporary artist Alex Israel unveiled his newest exhibition sponsored by the brand at the MAMO Arts Center in Marseille, France.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Set at the very top of the Cité Radieuse, Le Corbusier’s architectural masterpiece, and following solo shows of artists Xavier Veilhan, Daniel Buren, and Dan Graham, Israel’s site-specific works were drawn directly from Tim Burton’s 1989 film <em>Batman</em>, a movie that he had been eager to incorporate into his projects for some time. For the exhibition, Israel borrowed a pair of props (the Batmobile and the Bat-Signal) from the original movie, presenting them as sculptures—a constant method in the artist’s practice.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>“When the movie came out, it had a really profound impact on me. I saw it when I was six years old and I remember two really powerful things about it. One was being in the theater and being very conscious of what a cultural event the film was; the second thing is the film itself. It’s a full realization of an imagined world and it illustrated for me the potential of the imagination.”</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>As guests arrived at the MAMO for the exhibition’s preview, held last Friday, the vaulted rooftop pavilion plunged the visitors into the dark. The atmosphere was that of a re-imagined Batcave, where the torpedo-shaped Batmobile was parked. The famous car sat in the centerpiece of an immersive installation of smoke, light, and sound. On the outside deck, suspended in the sky, was the Gotham City Police Department’s Bat-Signal—one truly felt as though they had just entered Gotham City.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>According to Israel, Marseille’s gritty history and Le Corbusier’s brutalist architecture evoked Batman’s fictional city of crime. “This place is all concrete so it has a hyper-urban feel. It has a view on the metropolis, so it felt, through the building, this connection to the idea of Gotham City.”</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When the sun began to set, guests including Jean Pigozzi, Alexia Niedzielski, Olympia Scarry, Ramdane Touhami, Cédric Klapisch, Louise Follain, Inès Mélia, and David Giroire, gathered on the ship’s bridge-like rooftop terrace while waiting for the show to start. Breaking the night, Batman’s original theme song announced the world premiere of the real-life Bat-Signal, casting its enormous beam of light above the Marseille sky before the exhilarated crowd.
+ Ora Ito, the founder and creative director of the MAMO who invited Israel for this solo show and who organized and produced the exhibition, was clearly excited to finally see the project come to life. “It was really complicated to put together, as the Bat-Signal is made with special effects in the movie, so we had to try for a thousand times, but we did it!”
+</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>The Bat-Signal will light up every night until August 31, but with Marseille’s idyllic weather, the residents of the Phocaean city will have to count on a foggy sky for the symbol to appear; then, just maybe, Batman will come to the rescue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Journaliste :</strong> Thomas Delage<br/> <strong>Photo :</strong> WE ARE CONTENT(S)</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>MAMO</strong></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Centre d'art de la Cité Radieuse<br/>280 Boulevard Michelet 13008 Marseille, France<br/>+33 1 42 46 00 09<br/><a href="mailto:info@mamo.fr">info@mamo.fr</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Entrée gratuite.<br/>Ouvert tous les jours sauf le mardi.<br/>De 11h00 à 18h00.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Métro Ligne 2<br/>Arrêt : Rond-point du Prado</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Bus lignes 21, 22, 22S et 521<br/>Arrêt : Le Corbusier</p>
+<!-- /wp:paragraph -->

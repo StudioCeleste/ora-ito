@@ -1,0 +1,22 @@
+---
+layout: article.njk
+title: "IFA Berlin 2016 — Gorenje Press Conference: Ora ïto"
+locale: "en"
+published_date: "September 28, 2016"
+Rubric: "Events"
+project_tag: "Ora ïto"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/IFA_Gorenje_1_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/IFA_Gorenje_2_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/IFA_Gorenje_5_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/IFA_Gorenje_4_1960x1120.jpg"
+---
+<p style="text-align: justify;"><strong>The refreshed Gorenje Ora ïto collection</strong></p>
+<p style="text-align: justify;">Next spring, Gorenje and globally renowned French designer Ora ïto will be continuing their successful collaboration with a fresh range of Gorenje Ora ïto designer appliances, complete with small appliances marked by the signature features of Ito’s timeless elegance. “This project is very important to me, as it connects my philosophy with consumers, interacting with their everyday lives,” Ora ïto noted.</p>
+<p style="text-align: justify;">Ora ïto, who is synonymous with a premium design brand in his own right, prefers to stay away from volatile fashion trends. Instead, he has developed his own recognizable style of expression: clear, well-defined and easily understood forms through which his creations tackle one of the most demanding challenges of modern design: how to simplify a product with a range of complex functions and a complicated principle of operation to make it user-friendly and appealing. Creating a harmony between the complexity of functions and the simplicity of use, or “simplexity”, as Ito calls it, has become an art.</p>
+<p style="text-align: justify;">Gorenje is also a firm believer in the Life Simplified philosophy, striving to create innovative appliances that, despite their complexity, provide a simple and intuitive user experience, giving users more time for the important things in life. Gorenje and Ora ïto’s philosophies thus fused into the elegant Gorenje Ora ïto collection in 2007, bringing elegance, intelligence and beauty – a future with a breath of sophistication – into users’ homes and everyday lives. Behind the minimalist exterior lies complex technology, which is what gives the products their special elegance.</p>
+<p style="text-align: justify;">“For me, this project was truly a source of inspiration,” says Ora ïto. “The kitchen is part of our everyday lives, and it is a special challenge for a designer to create a product that reflects, through a variety of aspects, the relationship between the designer and the people who use the product.” What Ora ïto really likes about his collaboration with Gorenje is how simple to use the appliances are, the premium material processing and the quality of the exterior surfaces, which is reflected in the simple but sophisticated features.</p>
+<div style="text-align: justify;">
+<strong>The future of the kitchen: simple, connected and fun</strong>
+</div>
+<div style="text-align: justify;">Ora ïto believes that kitchens of the future will be simple, connected and fun. “I believe that the functions of the kitchen will be spread out throughout the home. Appliances will also provide connectivity, both among themselves and with the user – so you will be able to start cooking before you even get back home. Entertainment and interactivity will become core elements of every product, making it more fun to use.” Though Ora ïto is reluctant to talk about trends, he does admire modern design, as long as it is powerful, efficient, bold and inspired. “For me, inventing a new design for the future is a real adventure,” he says. Next spring, Ora ïto will continue his adventure alongside Gorenje.</div>

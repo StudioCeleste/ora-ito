@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Brick — Ora-ïto</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&amp;family=Spline+Sans+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="/assets/style.css" rel="stylesheet"/>
+<!-- CMS Netlify Identity Widget -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="/">ora<span class="dot">·</span><b>ïto</b></a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+      <nav class="main">
+
+        <a href="/profil/">Profil</a>
+        <a href="/projets/">Projets</a>
+        <a href="/mamo/">MAMO</a>
+        <a href="/news/">Actualités</a>
+        <a class="lang-switch" href="/en/studio/la-brick-disque-dur/" style="margin-left: 20px; font-weight: 500;">EN</a>
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="/">ora·ïto</a> — 
+    <a href="/projets/">
+      projets
+    </a> — Brick
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>Brick</h1>
+    </div>
+    <div class="dmeta">
+      <div><span class="k">Catégorie</span> Technologie</div>
+      <div><span class="k">Marque</span> LaCie</div>
+      <div><span class="k">Collection</span> LaCie</div>
+      <div><span class="k">Année</span> 2006</div>
+    </div>
+  </div>
+
+  <div class="body">
+    <p style="text-align: justify;">Un de­sign amu­sant to­tale­ment in­édit. <span style="line-height: 1.5em;">Le nou­veau disque dur Brick ex­prime la gai­eté dans un disque dur con­vivial à haute per­for­mance. Brick rend le stock­age pro­fes­sion­nel plaisant comme un jeu d’en­fant grâce à son de­sign mod­erne to­tale­ment in­édit. Empilez et ex­ploitez plusieurs dis­ques durs La­Cie Brick (mo­biles et de bureau) pour égay­er votre es­pace in­for­ma­tique tout en aug­men­tant la ca­pac­ité.</span></p>
+  </div>
+
+  
+  <div class="gal reveal">
+    
+    <figure><img alt="Brick" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/130.jpg"/></figure>
+    
+    <figure><img alt="Brick" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/218.jpg"/></figure>
+    
+  </div>
+  
+</div>
+
+
+<footer class="site">
+  <div class="wrap">
+    <div class="foot">
+      <div class="big">simplicity is<br/>the ultimate<br/>sophistication<span class="dot">.</span></div>
+      <div class="small">Studio Ora-ïto<br/>
+
+      Design produit · mobilier · architecture<br/>Paris — depuis 1998
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+<script src="/assets/app.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

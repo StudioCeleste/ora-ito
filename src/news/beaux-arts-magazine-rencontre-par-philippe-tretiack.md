@@ -1,0 +1,18 @@
+---
+layout: article.njk
+title: "Beaux-arts Magazine — Rencontre par Philippe Trétiack"
+locale: "fr"
+published_date: "28 novembre 2012"
+Rubrique: "Presse"
+project_tag: "MAMO"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC4594ITO_770.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC5236_8637_761©olivier-amsellem-2012.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC5183_8584_758©olivier-amsellem-2012.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC5436_8816_783©olivier-amsellem-2012.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC5241_8642_763©olivier-amsellem-2012.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/09/DSC4595ITO_771©olivier-amsellem-2012.jpg"
+---
+En short et en sueur, il cavale. Il serre les mains, il ouvre des portes, il cherche des clefs. Ora Ito est du genre dynamo. Plus il court plus il recharge. Tant mieux, car en sus de ses projets d’architecture et de design, il s’est collé sur le dos une entreprise panoramique : transformer la terrasse d’un des bâtiments d’architecture les plus célèbres du monde en un lieu d’exposition magnifique.
+
+A l’origine, une passion pour Le Corbusier. A onze, il achète un premier livre du maître. Une centaine de volumes plus tard, un ami avocat lui lâche une info. La salle de gym construite sur la terrasse de la Cité Radieuse est à vendre. Ora Ito fonce et tombe en quasi syncope. Le site est à couper le souffle mais une adjonction minable en gâche la vue. Il faudrait la raser mais c’est impossible, elle a été classée avec l’ensemble du  bâtiment en  1986. Une guerre commence. Ito est dans son élément. Avec l’appui de la Fondation Le Corbusier qui elle aussi bataille pour qu’on redonne au bâtiment son aspect d’origine, puis avec le soutien encore de toute la copropriété de la Cité, il balaye les obstacles. La verrue est pulvérisée, la toiture-terrasse retrouve sa grâce initiale. Aujourd’hui, le chantier bat son plein. Murs refaits à l’identiques, travail léché, respect des plans. Près de 4 millions d’euros investis pour sauver cette terrasse, budget pris en charge par les copropriétaires. « Notre chance dit Ora ito, c’est qu’ils sont pour la plupart architectes, profs, psys et fanatiques de Corbu. » En mai prochain, dans le deuxième temps des réjouissances Marseille Provence Cote d’Azur 2013, ce promontoire de béton devrait accueillir sa première expo. «Nous avons baptisé notre galerie MAMO, pour Marseille Modulor, et pour faire la nique aussi au MOMA de New York. A Marseille on est comme ça, frondeurs ». En piste pour ouvrir le bal, Xavier Veilhan sommé de ne présenter là que des œuvres créées pour  le lieu, toutes en accord avec le site :  la mer comme horizon, le ciel en toile de fond, Marseille. Car cette ville, on l’aura compris, est au cœur de toute cette passion. En une dizaine  d’années, Ora Ito s’est triangulé un univers à sa mesure et à la démesure de la cité phocéenne. Pour le prouver, Ito redonne un coup d’accélérateur. Avant de grimper sur sa terrasse, il saute dans un zodiac et nous fonçons vers l’île du Frioul où il est propriétaire d’un fort hissé sur des pitons rocheux. « A chaque expo, une œuvre  de l’artiste sera installée ici, pour créer au fil du temps un parc de sculptures. » Mais déjà, il faut filer vers le Vallon des Auffes où Ito possède un cabanon avec vue sur le port et une espèce de grosse péniche. Partout, il est dans son élément. Il irradie, il est radieux. Au physique, il n’a rien du Corbu mythique mais en vérité,  il y a chez lui une rage identique, une volonté d’innover, d’oser, d‘entreprendre. On avait baptisée la Cité Radieuse, la Maison du Fada, il faudra maintenant l’appeler la maison DES Fadas.

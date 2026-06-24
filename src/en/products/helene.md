@@ -1,0 +1,73 @@
+---
+layout: project.njk
+title: "Helene"
+locale: "en"
+Range: "Protection"
+year: "2013"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0015_Calq0-DIVINA-violet.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0001_Calq0-DIVINA-violet.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0025_Calque-6-DIVINA-violet.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0024_Calque-7-DIVINA-violet.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0016_Calq0-DIVINA-violet.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0002_Calq0-DIVINA-bleu-canard.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0019_Calque-12-DIVINA-bleu-canard.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0018_Calque-13-DIVINA-bleu-canard.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0018_Calq0-FIELD-rouge.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0004_Calq0-FIELD-rouge.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0021_Calque-10-FIELD-orange.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0020_Calque-11-FIELD-orange.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0017_Calq0-FIELD-noir-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0003_Calq0-FIELD-noir-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0017_Calque-14-FIELD-noir-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0016_Calque-15-FIELD-noir-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0019_Calq0-FIELD-noir-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0005_Calq0-FIELD-noir-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0015_Calque-16-FIELD-noir-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0014_Calque-17-FIELD-noir-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0026_Calq0-TEMPO-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0012_Calq0-TEMPO-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0003_Calque-28-TEMPO-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0002_Calque-29-TEMPO-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0027_Calq0-TEMPO-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0013_Calq0-TEMPO-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0023_Calque-8-TEMPO-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0022_Calque-9-TEMPO-kaki.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0025_Calq0-TEMPO-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0011_Calq0-TEMPO-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0001_Calque-30-TEMPO-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0000_Calque-31-TEMPO-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0024_Calq0-TEMPO-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0010_Calq0-TEMPO-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0027_Calque-4-TEMPO-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0026_Calque-5-TEMPO-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0014_Calq0-FIELD-NOIR-BLEU.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-IPAD-organic-FIELD-bleu-noir.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0029_Calque-2-FIELD-noir-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0028_Calque-3-FIELD-noir-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0022_Calq0-PU-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0008_Calq0-PU-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0007_Calque-24-PU-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0006_Calque-25-PU-gris.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0020_Calq0-PU-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0006_Calq0-PU-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0009_Calque-22-PU-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0008_Calque-23-PU-bleu.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0021_Calq0-PU-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0007_Calq0-PU-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0005_Calque-26-PU-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0004_Calque-27-PU-bordeau.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0014_Calq0-CUIR-noir.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/HELENE-organic-iPad_0000_Calq0-CUIR-noir.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0013_Calque-18-CUIR-noir.png"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/10/IPAD-mini_0012_Calque-19-CUIR-noir.png"
+---
+<p class="lede">Variation of the Folio Louïse case.</p>
+<div class="desc"><ul>
+<li>Padding pattern or Organic quilted effect</li>
+<li>Ultra-thin design and optimal protection</li>
+<li>Microfiber interior</li>
+<li>Video booth position</li>
+<li>Automatic screen sleep function</li>
+<li>Available for iPad 2/iPad Retina, iPad mini/iPad mini Retina, iPad Air</li>
+</ul></div>

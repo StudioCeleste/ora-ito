@@ -1,0 +1,44 @@
+---
+layout: article.njk
+title: "NICE MATIN —  Ora Ito : l’aura du designer sur les rames et les stations"
+locale: "en"
+published_date: "December 19, 2019"
+Rubric: "Press"
+project_tag: "Studio"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2019/12/Nice_Matin_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/10/Alstom_Presentation_7_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/02/Tram_Nice_8_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/03/Tram_Nice_7_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/02/Tram_Nice_4_1960x1120.jpg"
+---
+<!-- wp:paragraph -->
+<p>Ora ïto. Non, non, il n’est pas japonais. Né à Marseille en 1977, le designer du tramway est le fils du célèbre joaillier niçois Pascal Morabito, aujourd’hui installé à Bali. " Toute ma famille est de Nice, où j’ai passé mon enfance. J'allais à l’école de Fabron. " Désormais à cheval entre Marseille et Paris, cet artiste inclassable, pluridisciplinaire, qui passe du mobilier à l’hôtellerie, a donc pensé le look des rames et des stations de la ligne 2 du tramway. " L'idée, c’était de trouver une cohérence entre les deux, les voitures et les arrêts, et le fait de confier les deux projets à la même personne a facilité cette approche globale, holistique. " Une cohérence destinée " à ne pas trop polluer le cadre urbain ", Et ça, Ora ïto adore : " Je cherche toujours à minimiser la matière, à simplifier pour que ce soit neutre, tout en créant un bon produit. "</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>A l’arrivée, on a 18 rames stylisées, épurées et 20 stations, dont 4 souterraines, modernes, conçues comme des petits pavillons. " Justement pour sortir du côté station. "</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Il a choqué. Il a aimé</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>C’est fin. A dessein : " Tout ce qui est trop chargé se démode vite. On peut être neutre, léger, tout en se souciant du détail dans la qualité d’exécution, afin d’obtenir une épaisseur, une patine, des soudures, des panneaux solaires... parfaitement réalisées. "</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Au début, Ora ïto a un peu choqué. A 20 ans, ce personnage brillant, audacieux, imagine en images numériques des objets auxquels il fait porter le nom de grandes marques comme Vuitton ou Apple. Evidemment ça fait jaser. Mais au lieu de le poursuivre en justice, les marques font appel à ses services ! " J’étais jeune. C’était extraordinaire, mais pas facile de vivre un succès aussi soudain. Un coup d’éclat, ça passe, après il faut durer, mais ce qui m’intéresse cesont les projets divers. Je peux passer d’un bateau à un vélo électrique. " Un rien iconoclaste, maniant un vocabulaire fluide pour matérialiser le mouvement, ce touche-à-tout avait été classé par le magazine design Wallpaper, parmi les 40 designers les plus influents de moins de 40 ans.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Puis est arrivé le tram. " C’était nouveau pour moi et en même temps, j’ai eu l’occasion de voir où je pouvais m’améliorer. " Un travail de collaboration avec des ingénieurs, avec l’équipe d’Alstom. " On m’a beaucoup aidé..."<br/>Le designer s’est penché sur l’extérieur comme sur l’intérieur du tram. Pour la couleur, le rouge et le noir, " ce sont les Niçois qui ont voté. Moi, j’étais parti sur du bleu Klein et sur quelque chose de neutre, mais il ne faut jamais s’emballer, car on finit par se lasser et d’ailleurs, je me suis fait à ce rouge et noir, qui rappelle le club de foot de Nice. Et puis, lorsque le tram arrive sur le port, sur fond de façades rouges, il prend alors tout son sens. On comprend. Ce n’est pas évident de donner du sens à un objet aussi contemporain dans une ville qui accumule autant d’histoire. Mais il me plaît bien ce tram. Je suis parvenu à 85 % de ce que je voulais. "</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Oeil de sioux</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Le tramway et les stations de la Baie des Anges, première expression sur rails du savoir-faire élégant, futuriste voire avant-gardiste d’Ora ïto. " Je suis très touché, parce que Nice, c’est ma ville. Et puis, je viens de gagner après concours, la nouvelle ligne du métro de Marseille, où je suis né. Nice. Marseille, deux villes qui me tiennent à coeur..."</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Ora ïto, niço-marseillais. Rien à voir avec le Japon donc. Un jeu de mots phonique avec Morabito. " Dans mon nom, on entend mon prénom. " Et le prénom, c’est ïto. Un prénom sioux. " Il veut dire : construire l’imaginaire. " Comme si le prénom avait suscité la vocation. " En tout cas, la traduction de mon prénom, c’est la signification exacte de mon métier. Je ne suis pas fan du mot design..." C’est pourtant un mot qui le désigne comme un créateur d’excellence.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>CHRISTINE RINAUDO<br/>Article du 15 novembre 2019</p>
+<!-- /wp:paragraph -->

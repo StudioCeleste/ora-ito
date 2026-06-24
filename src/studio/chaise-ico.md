@@ -1,0 +1,24 @@
+---
+layout: project.njk
+title: "Chaise Ico"
+locale: "fr"
+category: "Mobilier"
+brand: "Cassina"
+year: "2016"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_01_Shadow_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_04_Shadow_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_05_Shadow_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_06_Shadow_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_07_Shadow_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_02_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/04/Cassina_ICO_03_1960x1120.jpg"
+---
+<p style="text-align: justify;">Avec <strong>Ico</strong>, <strong>Ora ïto</strong> s’inscrit dans le patrimoine légendaire de <strong>Cassina</strong> aux côtés de <strong>Ico Parisi</strong>, <strong>Gio Ponti</strong>, <strong>Gaetano Pesce</strong>, <strong>Le Corbusier</strong>, <strong>Charlotte Perriand</strong>, <strong>Philippe Starck</strong> et <strong>Patricia Urquiola</strong>. Un savoir-faire unique, à l’exacte point d’équilibre entre artisanat et industrie, que le fabricant italien met à la disposition des designers et architectes capables de redessiner les frontières du style et de l’expérimentation. Grâce à un échange permanent avec l’atelier Cassina pendant plus de deux ans, Ora ïto trace un nouvel archétype de confort à l’élégance racée.</p>
+<p style="text-align: justify;">Naturellement veiné, le bois est désormais innervé par la fluidité dynamique du designer français. Un trait nerveux, reconnaissable au premier coup d’œil, qui anime la traditionnelle assise en bois d’une tension nouvelle pour raviver le luxe des livings et restaurants contemporains. Clin d’œil à Ico Parisi et sa chaise 814 (classique de la maison Cassina dessiné en 1950), Ico est une chaise accoudoirs enveloppante en frêne gainée de tissu ou cuir, dont la couture souligne parfaitement la structure organique comme une délicate articulation.</p>
+<p style="text-align: justify;">La chaise Ico est représentative des valeurs que Cassina soutient encore aujourd’hui : une combinaison entre le travail de menuiserie et l’innovation technologique. C’est le concept du projet MedaMade.</p>
+<p class="feat-p">Développé pendant plus de deux ans avec le designer français Ora Ito, ce projet est parvenu à définir complètement l’équilibre entre l’artisanat et l’industrie, entre le style et l’expérimentation.</p>
+<p style="text-align: justify;">Ico se réfère clairement à l’histoire de Cassina, sa nature ‘techno-organique’ inspirée d’éléments industriels/techniques, a été développée en étroite collaboration avec l’équipe du Centre de Recherches et Développement de Cassina. La marque a étudié dans le détail l’ingénierie et la définition constructive de chaque composant de ce design, apparemment simple, en utilisant les technologies les plus avancées.</p>
+<p style="text-align: justify;">Le support, entièrement fabriqué en bois massif, représente la capacité d’industrialiser des formes sinueuses et complexes grâce à un dialogue parfait entre l’artisanat et la technologie. En effet, cet élément est caractérisé par de précieuses jonctions d’ébénisterie traditionnelle, et aussi par des réalisations complexes de fraiseuses à commande numérique à 5 axes, de toute dernière génération. Et le confort de la chaise n’a pas pour autant été sacrifié au profit de la technologie. La structure d’Ico en bois cintré est alliée à un travail détaillé de tapisserie : des inserts souples revêtus de tissu ou de cuir sont enrichis de détails de couture, allant de la fin de l’accoudoir jusqu’au dossier, un choix non seulement fonctionnel mais aussi esthétique.</p>
+<p style="text-align: justify;">Ico est disponible en 4 finitions mates à pore ouvert (frêne naturel ou frêne teinté en noir, noyer ou rouge), ce qui rend cette chaise polyvalente et adaptée à différents contextes architecturaux. Grâce à ses accoudoirs abaissés, Ico trouve sa place autour d’une table à déjeuner. Support en frêne massif. Assise / dossier en frêne. Rembourrage mousse. Revêtement tissu ou cuir. Finitions mates, à pore semi-ouvert, frêne naturel ou frêne teinté noir, frêne teinté, noyer ou frêne teinté rouge.</p>

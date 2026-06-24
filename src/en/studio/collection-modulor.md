@@ -1,0 +1,72 @@
+---
+layout: project.njk
+title: "Modulor Collection"
+locale: "en"
+category: "Accessories"
+brand: "Bompard"
+collection: "Limited edition"
+year: "2023"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_00b_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_02_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_03_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_04_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_05_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_06_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_08_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_10_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_07_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_11_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_12_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_09_1960x1120.jpg"
+---
+<b>Ora-ïto / Bompard, more than an association</b>
+
+Between Bompard, the referent of cashmere, and Ora-ïto, the design prodigy, a special bond already existed, because the designer had been wearing the brand's cashmeres for a long time.
+
+Ora-ïto does not arrive in the world of fashion by chance. At 19, he had already created virtual fashion accessories that went around the world. It was therefore quite natural that the designer and the House's style teams began a dialogue which, after almost a year of work, resulted in the birth of a collection of clothing co-signed by their two names. And marks Ora-ïto’s very first foray into ready-to-wear.
+
+A new logo was specially created to seal the association of the two brands, as if to mark the beginning of a long history.
+
+The project between Bompard and Ora-ïto is an association of a completely new type and of a rare scale. Not just a collaboration but a full and complete rapprochement to bring innovation, youth and contemporary design into the traditional, sometimes frozen world of knitwear. By working with Ora-ïto, Bompard reconciles know-how and modernity.
+<p class="feat-p">“A beautiful stone, the grain of a wood, the exceptional cashmere of Maison Bompard, that’s what speaks to me, that nourishes me. »</p>
+In 1999, Ora-ïto created the first virtual brands and gained international recognition. Inventor in particular of digital design, he quickly forged a name for himself in the world of design. To the point that he is one of the leaders in the sector, collaborating with the biggest manufacturers, the most renowned luxury brands and artists recognized around the world like Daniel Buren or Space Invader.
+
+The designer is attracted by know-how, beauty and traditions that nourish his fertile and very creative spirit. But above all, it is the materials that inspire him. “The nobility of the materials is an unrivaled source of inspiration,” comments Ora-ïto. A beautiful stone, the grain of a wood, the exceptional cashmere of Maison Bompard, that’s what speaks to me, that nourishes me. Bompard symbolizes cashmere. I like to choose Houses whose brand embodies a function.”
+
+When Ora-ïto joins forces with a partner, it favors manufacturers who bring the guarantee of know-how to the futuristic dimension of its work. This is the whole idea of ​​his collaboration with Bompard. “With Ora-ïto we really came together around its inspirations,” says Caroyln Randolfi, the creative director. There is this work on curves which is really interesting, like the use of intarsia. But also a whole set of ribs that adapt to the woman’s body.”
+
+The idea was to create a mixed collection that plays with codes to speak to everyone, all the time. Faced with the loss of home/work references, Ora-ïto provides the beginnings of an answer. It is the alliance between the softness of cashmere, the strength of the lines and the purity of the design.
+
+“This is the first time that we have given such carte blanche to a creator. Ora-ïto pushed us to our limits by working hand in hand with our expert cashmere teams. I am proud and happy with this collection which reaffirms the contemporary aspect of the House.” Barbara Werschine, Managing Director of Bompard.
+<p class="feat-p">“I really wanted to make the most of the material, to take knitwear where it had never been,” continues the designer, “to explore all its possibilities. »</p>
+<b>The exceptional cashmere expert</b>
+
+Ora-ïto was attracted by the quality of the House's products, which only sources Grade A cashmere, the best quality in the world. The fibers used for Bompard cashmere are the finest you can find. An exceptional raw material, very soft, which can be worn next to the skin. It is particularly comfortable and offers incomparable loft.
+
+Fineness of Bompard weaving, lightness, unique choice of colors, infinite possibilities of shapes, mastery of old stitches and knits, the know-how of the House seduced Ora-ïto. The capabilities of the creative team, under the direction of Carolyn Randolfi, led through discussions to real technical feats in the development of the Ora-ïto / Bompard collection.
+
+Bompard controls the entire chain, from the fiber to the knitted product, with the same partners with whom the House has worked for nearly 40 years. This allows you to dare and prototype quickly.
+
+These agreements also provide Maison Bompard with perfect traceability to which the Maison associates certifications (92% of production is certified Made in Green, the highest level of traceability recognized by an independent and international label).
+
+<b>The inspirations of the collection</b>
+
+Passionate about cinema, Ora-ïto particularly admires Spielberg, George Lucas and Stanley Kubrick... from whose films he drew his inspiration. “These three directors shaped my aesthetic. 2001, A Space Odyssey and Cosmos 99 are clearly style references for this collection.”
+<p class="feat-p">“This collection was inspired by women’s bodies and the proportions of Le Corbusier’s architecture, as found in the Modulor,” explains Ora-ïto. The beige of the mesh is the concrete of MaMo, my art center in Marseille, the play of colors is a repeat of those of the Cité Radieuse. The story I wanted to tell takes place in the future, as if the Radiant City were a spaceship and its entire crew landed in Kubrickian outfits.</p>
+“Among the key pieces of the collection, all 100% cashmere, a dress with graphic curves, pants and a reversible jacket for indoors. Ora-ïto wanted relaxed things, socks, mittens, masculine pieces that he could wear and where we recognize his architectural style.” Carolyn Randolfi, Creative Director of Bompard
+
+Ora-ïto is the future. But a portable future adapted to the times. This collection of around twenty cashmere references has been designed as a coherent and authentic whole, in the style of a new futuristic classic, far from fashion effects. It has a sober aesthetic, terribly fashionable at Eric Bompard for almost 40 years. The philosophy underlying its concepts is in fact that of a minimalist language which combines futuristic, organic elements and a search for noble materials. His creative process aims to surprise with an apparent simplicity of forms or general rendering and the complexity of the creation. Or the combination of sophistication and style.
+
+“It’s very complicated to keep things simple, it’s every designer’s dream,” explains Ora-ïto. “Simplexity is the art of giving an apparent simplicity to a complex form.” He worked on the ergonomics of the pieces so that they fit like a glove. Whether it was the sports line for chill and relaxed evenings at home, or the more sophisticated part of the collection, they had to be very comfortable. But also soft, in order to enhance the woman's body. Moreover, we find in the curves of the different pieces the organic, fluid forms, characteristic of Ora-ïto’s design and architectural work. A volume language that he has been practicing for 15 years, from a chair to a cinema, from a tram to a chandelier.
+
+Behind his approach lies an idea of ​​the reduction of material in his creative process. For Ora-ïto as for Eric Bompard, an object of good manufacture which does not have a design linked to a trend possesses this virtue of timelessness. It lasts and is therefore, by definition, ecological.
+
+This association produces magnificent products, with couture finishes. They appear to be simple products, but they are very well cut and full of careful details. Some are very complex, such as intarsia curves, a very particular technique, associated with a tubular finish which gives grain and relief. This is a fine example of discreet luxury.
+
+<b>The launch campaign</b>
+
+Shot at MaMo (Marseille Modulor), the art center created by the designer in 2013, on the roof of Le Corbusier's Cité Radieuse, in the center of Marseille, the campaign traces the modernist, structuralist and visionary inspirations of Ora-ïto. It is an integral part of this first inaugural chapter of the new association between the designer and Bompard.
+
+<b>Worn by Thylane Blondeau, actress, model, perfume creator and muse of designers, the Ora-ïto / Bompard collection was put into images by photographer Pierre-Ange Carlotti and stylist Jennifer Eymère of L'Officiel, to better underline its contemporaneity.</b>

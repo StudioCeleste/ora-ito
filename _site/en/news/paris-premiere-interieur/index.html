@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Paris Première — Interieur — Ora-ïto</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&amp;family=Spline+Sans+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="/assets/style.css" rel="stylesheet"/>
+<!-- CMS Netlify Identity Widget -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="/en/">ora<span class="dot">·</span><b>ïto</b></a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+      <nav class="main">
+
+        <a href="/en/profil/">Profile</a>
+        <a href="/en/projets/">Projects</a>
+        <a href="/en/mamo/">MAMO</a>
+        <a href="/en/news/">News</a>
+        <a class="lang-switch" href="/news/paris-premiere-interieur/" style="margin-left: 20px; font-weight: 500;">FR</a>
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="/en/">ora·ïto</a> — 
+    <a href="/en/news/">
+      news
+    </a> — Paris Première — Interieur
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>Paris Première — Interieur</h1>
+    </div>
+    <div class="dmeta">
+      <div><span class="k">Date</span> January 22, 2013</div>
+      
+    </div>
+  </div>
+
+  <div class="body">
+    <p style="text-align: justify;">Des décors hallucinants, des maisons d’hôtes de charme, des trouvailles choc, sans oublier la désormais fameuse séquence “relooking”: Intérieurs, c’est LE rendez-vous des chasseurs de tendance et des amateurs de belles maisons. Nouveauté cette année, la rubrique Prix : nous consulter, réalisée en partenariat avec les plus grandes agences immobilières, pousse la porte de ces appartements hors du commun et de ces propriétés fastueuses dont le prix n’est jamais mentionné sur les annonces et que l’on rêve tous de visiter.</p>
+  </div>
+
+  
+  <div class="gal reveal">
+    
+    <figure class="lead"><img alt="Paris Première — Interieur" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2013/09/BarDetail-1.jpg"/><figcaption>01</figcaption></figure>
+    
+  </div>
+  
+</div>
+
+
+<footer class="site">
+  <div class="wrap">
+    <div class="foot">
+      <div class="big">simplicity is<br/>the ultimate<br/>sophistication<span class="dot">.</span></div>
+      <div class="small">Studio Ora-ïto<br/>
+
+      Product design · furniture · architecture<br/>Paris — since 1998
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+<script src="/assets/app.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

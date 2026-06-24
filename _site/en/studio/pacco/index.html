@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Paco — Ora-ïto</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&amp;family=Spline+Sans+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="/assets/style.css" rel="stylesheet"/>
+<!-- CMS Netlify Identity Widget -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="/en/">ora<span class="dot">·</span><b>ïto</b></a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+      <nav class="main">
+
+        <a href="/en/profil/">Profile</a>
+        <a href="/en/projets/">Projects</a>
+        <a href="/en/mamo/">MAMO</a>
+        <a href="/en/news/">News</a>
+        <a class="lang-switch" href="/studio/pacco/" style="margin-left: 20px; font-weight: 500;">FR</a>
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="/en/">ora·ïto</a> — 
+    <a href="/en/projets/">
+      projects
+    </a> — Paco
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>Paco</h1>
+    </div>
+    <div class="dmeta">
+      <div><span class="k">Category</span> Packaging</div>
+      <div><span class="k">Brand</span> Heineken</div>
+      <div><span class="k">Collection</span> Heineken</div>
+      <div><span class="k">Year</span> 2002</div>
+    </div>
+  </div>
+
+  <div class="body">
+    <p class="feat-p">Red Dot Design Award
+Best Package Design</p>
+<p style="text-align: justify;">In 2002, Heineken called on the very young designer Ora-Ïto to design a luxurious setting for the nightlife world. With spectacular support from the French public, the bottle was then launched successively in 35 countries with the same success! Establishing a new deal on the market, this sophisticated-looking bottle soon became a reference in the nightlife world but also in the media, making it one of the most publicized beer bottles in history. It even reached legendary status by becoming the acquisition of the National Contemporary Art Fund (FNAC) and is still exhibited today as a work of art in museums and art galleries around the world.</p>
+  </div>
+
+  
+  <div class="gal reveal">
+    
+    <figure><img alt="Paco" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/343.jpg"/></figure>
+    
+    <figure><img alt="Paco" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/250.jpg"/></figure>
+    
+    <figure><img alt="Paco" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/190.jpg"/></figure>
+    
+  </div>
+  
+</div>
+
+
+<footer class="site">
+  <div class="wrap">
+    <div class="foot">
+      <div class="big">simplicity is<br/>the ultimate<br/>sophistication<span class="dot">.</span></div>
+      <div class="small">Studio Ora-ïto<br/>
+
+      Product design · furniture · architecture<br/>Paris — since 1998
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+<script src="/assets/app.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

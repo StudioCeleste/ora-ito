@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Canapé — Ora-ïto</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&amp;family=Spline+Sans+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="/assets/style.css" rel="stylesheet"/>
+<!-- CMS Netlify Identity Widget -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="/">ora<span class="dot">·</span><b>ïto</b></a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+      <nav class="main">
+
+        <a href="/profil/">Profil</a>
+        <a href="/projets/">Projets</a>
+        <a href="/mamo/">MAMO</a>
+        <a href="/news/">Actualités</a>
+        <a class="lang-switch" href="/en/studio/canape/" style="margin-left: 20px; font-weight: 500;">EN</a>
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="/">ora·ïto</a> — 
+    <a href="/projets/">
+      projets
+    </a> — Canapé
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>Canapé</h1>
+    </div>
+    <div class="dmeta">
+      <div><span class="k">Catégorie</span> Mobilier</div>
+      <div><span class="k">Marque</span> Roche Bobois</div>
+      <div><span class="k">Collection</span> Roche Bobois</div>
+      <div><span class="k">Année</span> 2012</div>
+    </div>
+  </div>
+
+  <div class="body">
+    <p style="text-align: justify;">Le leader mondial de l’édition et de la distribution sélective de meubles présente, en exclusivité, une collection complète, signée Ora ïto : table haute, table basse, canapé, buffet et guéridon.</p>
+  </div>
+
+  
+  <div class="gal reveal">
+    
+    <figure><img alt="Canapé" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/RocheBobois-Canapé-RT.jpg"/></figure>
+    
+    <figure><img alt="Canapé" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/822.jpg"/></figure>
+    
+  </div>
+  
+</div>
+
+
+<footer class="site">
+  <div class="wrap">
+    <div class="foot">
+      <div class="big">simplicity is<br/>the ultimate<br/>sophistication<span class="dot">.</span></div>
+      <div class="small">Studio Ora-ïto<br/>
+
+      Design produit · mobilier · architecture<br/>Paris — depuis 1998
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+<script src="/assets/app.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

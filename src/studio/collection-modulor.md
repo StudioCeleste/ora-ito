@@ -1,0 +1,72 @@
+---
+layout: project.njk
+title: "Collection Modulor"
+locale: "fr"
+category: "Accessoires"
+brand: "Bompard"
+collection: "Édition limitée"
+year: "2023"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_00b_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_02_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_03_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_04_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_05_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_06_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_08_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_10_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_07_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_11_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_12_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/12/Bompard_09_1960x1120.jpg"
+---
+<b>Ora-ïto / Bompard, plus qu’une association</b>
+
+Entre Bompard le référent du cachemire et Ora-ïto le prodige du design un lien spécial existait déjà, car le designer portait depuis longtemps les cachemires de la marque.
+
+Ora-ïto n’arrive pas par hasard dans l’univers de la mode. À 19 ans, il avait déjà créé des accessoires de mode virtuels qui ont fait le tour du monde. C’est donc tout naturellement que le créateur et les équipes du style de la Maison ont engagé un dialogue qui au bout de près d’un an de travail, a abouti à la naissance d’une collection de vêtements cosignés de leurs deux noms. Et signe la toute première incursion d’Ora-ïto dans le prêt-à-porter.
+
+Un nouveau logo a été spécialement créé pour sceller l’association des deux marques, comme pour marquer le début d’une longue histoire.
+
+Le projet entre Bompard et Ora-ïto est une association d’un genre totalement inédit et d’une ampleur rare. Pas juste une collaboration mais un rapprochement plein et entier pour apporter innovation, jeunesse et design contemporain dans l’univers traditionnel, parfois figé de la maille. En travaillant avec Ora-ïto, Bompard réconcilie savoir-faire et modernité.
+<p class="feat-p">« Une belle pierre, la veine d’un bois, le cachemire d’exception de la Maison Bompard, c’est cela qui me parle, qui me nourrit. »</p>
+En 1999, Ora-ïto créait les premières marques virtuelles et gagnait une reconnaissance internationale. Inventeur notamment du design digital, il s’est rapidement forgé un nom dans l’univers du design. Au point qu’il est l’une des pointures du secteur, collaborant avec les plus grands industriels, les marques de luxe les plus réputées et des artistes reconnus dans le monde entier comme Daniel Buren ou Space Invader.
+
+Le designer est attiré par les savoir-faire, le beau et les traditions qui nourrissent son esprit fécond et très créatif. Mais par-dessus tout, ce sont les matières qui l’inspirent. « La noblesse des matériaux est une source d’inspiration sans égal, commente Ora-ïto. Une belle pierre, la veine d’un bois, le cachemire d’exception de la Maison Bompard, c’est cela qui me parle, qui me nourrit. Bompard symbolise le cachemire. J’aime choisir des Maisons dont la marque incarne une fonction ».
+
+Quand Ora-ïto s’associe avec un partenaire, il privilégie des industriels qui amènent la caution du savoir-faire à la dimension futuriste de son travail. C’est toute l’idée de sa collaboration avec Bompard. « Avec Ora-ïto nous nous sommes vraiment retrouvés autour de ses inspirations souligne Caroyln Randolfi, la directrice de création. Il y a ce travail sur les courbes qui est vraiment intéressant, comme l’utilisation des intarsia. Mais aussi tout un jeu de côtes qui s’adapte au corps de la femme ».
+
+L’idée était de créer une collection mixte qui se joue des codes pour parler à toutes et tous, tout le temps. Devant la perte des repères maison/travail, Ora-ïto apporte un début de réponse. C’est l’alliance entre la douceur du cachemire, la force des lignes et la pureté du design.
+
+« C’est la première fois que nous laissons une telle carte blanche à un créateur. Ora-ïto nous a poussés dans nos retranchements en travaillant main dans la main avec nos équipes expertes du cachemire. Je suis fière et heureuse de cette collection qui réaffirme l’aspect contemporain de la Maison ». Barbara Werschine, Directrice Générale de Bompard.
+<p class="feat-p">« J’ai vraiment voulu tirer le plus grand parti de la matière, emmener la maille là où elle n’avait jamais été, poursuit le designer, explorer toutes ses possibilités. »</p>
+<b>L’expert du cachemire d’exception</b>
+
+Ora-ïto a été attiré par la qualité des produits de la Maison, qui se fournit uniquement en cachemire Grade A, la meilleure qualité au monde. Les fibres utilisées pour les cachemires Bompard sont les plus fines qu’on puisse trouver. Une matière première d’exception, très douce, qui peut se porter à même la peau. Elle est particulièrement confortable et offre un gonflant incomparable.
+
+Finesse des tissages Bompard, légèreté, choix de couleurs unique, infinie possibilité des formes, maîtrise des points anciens et de la maille, les savoir-faire de la Maison ont séduit Ora-ïto. Les capacités de l’équipe de création, sous la direction de Carolyn Randolfi, ont conduit au fil des échanges à de véritables prouesses techniques dans l’élaboration de la collection Ora-ïto / Bompard.
+
+Bompard maîtrise en effet l’ensemble de la chaîne, de la fibre au produit tricoté, avec les mêmes partenaires avec lesquels la Maison travaille depuis près de 40 ans. Ce qui permet d’oser et de prototyper rapidement.
+
+Ces accords assurent par ailleurs à la Maison Bompard une parfaite tracabilité à laquelle la Maison associe des certifications (92% de la production est certifiée Made in Green, plus haut niveau de traçabilité reconnu par un label indépendant et international).
+
+<b>Les inspirations de la collection</b>
+
+Passionné de cinéma, Ora-ïto admire tout particulièrement Spielberg, Georges Lucas et Stanley Kubrick… dans les films desquels il a puisé son inspiration. « Ces trois réalisateurs ont forgé mon esthétisme. 2001, l’Odyssée de l’espace ou encore Cosmos 99 sont clairement des références de style pour cette collection ».
+<p class="feat-p">« Cette collection m’a été inspirée par le corps des femmes et les proportions de l’architecture de Le Corbusier, telles qu’on les retrouve dans le Modulor, explique Ora-ïto. Le beige de la maille c’est le béton du MaMo, mon centre d’art à Marseille, le jeu des couleurs est une reprise de celles de la Cité Radieuse. L’histoire que j’ai voulu raconter se déroule dans le futur, comme si la Cité Radieuse était un vaisseau spatial et que tout son équipage débarquait en tenue kubrickienne ».</p>
+« Parmi les pièces maîtresses de la collection, toutes 100% cachemire, une robe aux courbes graphiques, un pantalon et une veste réversible pour l’intérieur. Ora-ïto voulait des choses détendues, des chaussettes, des mitaines, des pièces masculines qu’il pourrait porter et où l’on reconnait son écriture architecturale ». Carolyn Randolfi, Directrice de Création de Bompard
+
+Ora-ïto c’est le futur. Mais un futur portable et adapté à l’époque. Cette collection d’une vingtaine de références en cachemire a été conçue comme un tout cohérent et authentique, à la manière d’un nouveau classique futuriste, loin des effets de mode. Elle est d’une esthétique sobre, terriblement à la mode chez Eric Bompard depuis près de 40 ans. La philosophie qui sous-tend ses concepts est en effet celle d’un langage minimaliste qui combine des éléments futuristes, organiques et une recherche de matériaux nobles. Son processus créatif a pour but de surprendre avec une apparente simplicité des formes ou du rendu général et de la complexité de la réalisation. Ou l’alliance de la sophistication et du style.
+
+« Il est très compliqué de faire simple, c’est le rêve de tout designer explique Ora-ïto. La simplexité c’est tout l’art de donner à une forme complexe une apparente simplicité ». Il a travaillé sur l’ergonomie des pièces afin qu’elles s’enfilent comme un gant. Qu’il s’agisse de la ligne sport pour les soirées chill et détendues à la maison, ou la partie plus sophistiquée de la collection, il fallait qu’elles soient très confortables. Mais aussi douces, afin de sublimer le corps de la femme. D’ailleurs on retrouve dans les courbes des différentes pièces les formes organiques, fluides, caractéristiques du travail de design et d’architecture d’Ora-ïto. Un langage volumique qu’il pratique depuis 15 ans, d’une chaise à un cinéma, d’un tramway à un chandelier.
+
+Derrière son approche se cache une idée de la réduction de la matière dans son processus de création. Pour Ora-ïto comme pour Eric Bompard, un objet de bonne manufacture qui n’a pas un design lié à une tendance possède cette vertu de l’intemporel. Il dure et se veut donc, par définition, écologique.
+
+Cette association donne des produits magnifiques, avec des finitions couture. D’apparence ce sont des produits simples, mais ils sont très bien coupés et pleins de détails soignés. Certains sont d’une grande complexité comme les courbes en intarsia une technique très particulière, associée à une finition tubulaire qui donne du grain et du relief. Voilà un bel exemple de luxe discret.
+
+<b>La campagne de lancement</b>
+
+Tournée au MaMo (Marseille Modulor), le centre d’art créé par le designer en 2013, sur le toit de la Cité Radieuse de Le Corbusier, au centre de Marseille, la campagne retrace les inspirations à la fois modernistes, structuralistes et visionnaires d’Ora-ïto. Elle fait partie intégrante de ce premier chapitre inaugural de la nouvelle association entre le designer et Bompard.
+
+<b>Portée par Thylane Blondeau, actrice, mannequin, créatrice de parfum et égérie de créateurs, la collection Ora-ïto / Bompard a été mise en images par le photographe Pierre-Ange Carlotti et la styliste Jennifer Eymère de L’Officiel, pour mieux souligner sa contemporanéité.</b>

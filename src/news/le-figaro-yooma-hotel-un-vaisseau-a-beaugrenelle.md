@@ -1,0 +1,23 @@
+---
+layout: article.njk
+title: "Le Figaro — Yooma hôtel, un vaisseau à Beaugrenelle"
+locale: "fr"
+published_date: "2 décembre 2017"
+Rubrique: "Presse"
+project_tag: "Studio"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_21_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_57_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_09_1960x1120.jpg"
+---
+<strong>Entre l'ancien Nikko et les tours du quai de Grenelle, le nouvel hôtel joue sur les codes de la modernité et de la fonctionnalité. Dans un quartier dénué de charme, il apporte une touche de bleu… Buren.</strong>
+
+Un rectangle aux angles arrondis posé sur la dalle du quai de Grenelle face à la Maison de la Radio, vient de faire son apparition. Pas vraiment un ovni, il s'intègre plutôt bien dans le paysage du front de Seine des années 1970 qui devait incarner le futur à tout prix, à deux pas de la vieille tour Eiffel. Ce bâtiment à la structure de métal poli, pourrait dater de cette révolution architecturale parisienne. Mais pas du tout, le Yooma sort fraîchement de terre (ou plutôt de la laide dalle). Mais par chance, son concepteur et homme d'affaires averti, Pierre Beckerich, a eu l'idée de faire appel à deux stars du design et de l'art contemporain: Ora-ïto et Daniel Buren.
+
+<b>Ora-ïto, le jeune radical. </b>Génie de la réinvention des styles, le designer de 40 ans a le chic pour apporter une rétro-modernité 2.0 partout où il  passe. Au Yooma («nom inspiré du mot Humanité, symbolisant les valeurs d'accueil de tribus, familles, professionnels et amis»), il a posé son identité graphique, en même temps que son esprit rationnel. Comment répondre à un cahier des charges imposant 440 couchages pour 106 chambres seulement? Ora-ïto, qui avait fait l'expérience d'un petit boutique-hôtel O, rue Hérold (Ier) a trouvé les astuces et l'esthétique pour emboîter formes et usage.
+
+<b>Daniel Buren, le complice. </b>L'artiste de 79 ans, qui s'est déjà acoquiné avec Ora-ïto à la Cité radieuse de Marseille, renouvelle une collaboration pérenne, puisqu'il habille de son bleu indigo les murs du bâtiment dont il ponctue l'architecture avec des colonnes striées en noir et blanc. C'est presque une touche classique qui vient s'ajouter au projet global.
+
+<b>Le potager sur le toit.</b> «Nos chambres accueillent de 2 à 6 personnes, du couple au groupe d'amis. C'est pourquoi notre offre de services est multiple», explique le patron Pierre Beckerich, qui a planté une exploitation maraîchère au sommet. Les radis, salades, fraises et herbes aromatiques sont déjà intégrés à la carte du restaurant de 130 couverts, où les chaises sont presque toutes griffées d'un designer différent. Dans les chambres étroites et ordonnées, sur le modèle des cabines de bateau (de 90 à 190 €), la technologie est de pointe et les parents peuvent même surveiller à distance leur bébé grâce à une caméra et une tablette. Manque juste un peu de patine et le tour sera vraiment joué.
+
+Par  Sophie de Santis

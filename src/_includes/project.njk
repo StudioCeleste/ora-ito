@@ -1,0 +1,35 @@
+---
+layout: base.njk
+---
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="{{ '/' if locale == 'fr' else '/en/' }}">ora·ïto</a> — 
+    <a href="{{ '/projets/' if locale == 'fr' else '/en/projets/' }}">
+      {{ 'projets' if locale == 'fr' else 'projects' }}
+    </a> — {{ title }}
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>{{ title }}</h1>
+    </div>
+    <div class="dmeta">
+      {% if category %}<div><span class="k">{{ 'Catégorie' if locale == 'fr' else 'Category' }}</span> {{ category }}</div>{% endif %}
+      {% if brand %}<div><span class="k">{{ 'Marque' if locale == 'fr' else 'Brand' }}</span> {{ brand }}</div>{% endif %}
+      {% if collection %}<div><span class="k">Collection</span> {{ collection }}</div>{% endif %}
+      {% if year %}<div><span class="k">{{ 'Année' if locale == 'fr' else 'Year' }}</span> {{ year }}</div>{% endif %}
+    </div>
+  </div>
+
+  <div class="body">
+    {{ content | safe }}
+  </div>
+
+  {% if gallery and gallery.length > 0 %}
+  <div class="gal reveal">
+    {% for img in gallery %}
+    <figure><img alt="{{ title }}" loading="lazy" decoding="async" src="{{ img }}"/></figure>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>

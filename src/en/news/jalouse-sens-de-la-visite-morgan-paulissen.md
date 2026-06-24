@@ -1,0 +1,16 @@
+---
+layout: article.njk
+title: "Jalouse — Sens de la visite - Morgan Paulissen"
+locale: "en"
+published_date: "February 1, 2013"
+Rubric: "Press"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2013/02/Bar-1.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/02/ito.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2013/02/Miranda-Kerr-Jalouse-Magazine-cover-February-2013.jpg"
+---
+Au 19, rue Herold dans le Ier arrondissement de Paris, l'effervescence est à son comble. Des portes claquent, des voix résonnent, les femmes de ménage s'activent à l'étage. Deux ouvriers surgissent de nulle part pour disparaître l'instant d'après. L'hôtel O ouvrira officiellement ses portes dans quelques jours Pendant que les équipes s'affairent aux derniers ajustements, Ora-ïto, le maître des lieux, m'entraîne dans une visite guidée pleine de sensations Son passe-partout à la main, le designer court de chambre en chambre faisant mine de m'attendre. Visiblement en très grande forme, le jeune créateur est fier de présenter son nouveau projet, son premier hôtel. Petites sur le papier - 12 m2 en moyenne - les chambres sont en réalité spacieuses, fonctionnelles et accueillantes. Référence au cabanon de Le Corbusier, l'espace est aménage selon le Modulor, principe de proportions inventé par l'architecte français en 1945. Comme dans, des cabines de bateau, les locataires d'un soir pourront contrôler la lumière depuis leur lit à l'aide d'une simplisme commande à pictogrammes. Et surprise, en tirant sur une languette qui sort du mur en feutrine, une tablette tombe et se fait bureau.
+
+BAOBAB
+
+A chaque étage sa couleur et à chaque chambre sa nuance. L'hôtel utilise les préceptes de la chromothérapie et réveille nos sens "Une pastille collée sur chaque porte définit la teinte de la chambre et la paroi en verre qui sépare le lit de la salle de bains est un joli dégrade de cette couleur", explique Ora-ïto en nous montrant des flacons de gel douche reprenant cette palette. Trompe-l'œil et jeux de perspective font de cet hôtel un couteau suisse où tout est à la disposition du client sans pour autant l'oppresser. "C'est avec la contrainte que vient la création", ajoute-t-il avant de nous diriger vers ce qui est pour lui l'îlot central du lieu : une superposition de lames de bois ondoyantes qui évoque un tronc de baobab planté en plein milieu du lobby De ce qui était de prime abord un handicap, le designer a fait sa principale source d'inspiration, transformant un inélégant maîs inamovible poteau en arbre majestueux, et dans le bar lounge situé juste derrière le lobby, rappelant l'ondulation de cet îlot central, un gigantesque tableau mouvant en planches de chêne enveloppe toute la salle et se transforme sous nos yeux. Des vagues qui se brisent sur le sable ou des dunes du Sahara, à chacun son interprétation, pourvue qu'elle soit relaxante. Fin de la visite face à cette vision irréelle et unique qui reflète l'idée de nature maîtrisée. Si vous souhaitez faire un compliment au capitaine du navire, dites-lui simplement que vous avez fait de beaux rêves. Il sera comble.

@@ -1,0 +1,39 @@
+---
+layout: article.njk
+title: "Paris Match — Yooma, l’hôtel griffé Ora Ïto et Daniel Buren"
+locale: "fr"
+published_date: "2 décembre 2017"
+Rubrique: "Presse"
+project_tag: "Studio"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_07_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_39_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_32_1960x1120.jpg"
+---
+<strong>Le plus jeune a réalisé le design avec la collaboration artistique de son mentor. A Paris, le Yooma joue sur une esthétique et une architecture innovantes. Dédié à la famille, cet « urban lodge » veut directement concurrencer Airbnb. Des chambres de 2 à 6 personnes à des tarifs canon. Des espaces bébé à chaque étage. Mais aussi un mur d’écrans où défilent des œuvres contemporaines et trois ateliers mis à la disposition d’artistes.</strong>
+<b>Paris Match. Au-delà de l’amitié que vous vous portez, pourquoi avez-vous accepté de façonner cet hôtel d’un nouveau genre ? </b>
+<b>Daniel Buren.</b> D’abord, j’aime tous les projets qui parviennent à m’extraire de ma partie. Ensuite, j’ai été séduit par l’idée : un hôtel pour des familles, à des prix raisonnables, avec un équipement haut de gamme et une grande qualité de service. A mes yeux c’est le seul qui existe de ce genre.
+<b>Ora Ïto.</b> C’est le premier. L’idée est totalement nouvelle. Moi, au-delà du concept, j’étais fasciné par cette dalle Beaugrenelle, située dans le XVe arrondissement de Paris. C’est là que Pierre Beckerich, le fondateur de ce lodge urbain, voulait voir éclore le Yooma. Une dalle trop peu connue, trop peu appréciée, composée de bâtiments datant des années 1970. Daniel a inventé le “in situ”. Par son travail, il souligne et remet en lumière la beauté des lieux qu’il investit. Dans ce quartier, son empreinte redonne une cohérence. Le Yooma permet la jonction entre les différentes bâtisses. Il devient presque le socle de l’ensemble architectural.
+
+<b>Ora Ïto, Daniel Buren n’est-il pas un peu votre mentor ?</b>
+<b>O.Ï.</b> Il appartient à ces gens qui décloisonnent des cases. Pour moi, c’est le plus grand artiste français contemporain. Il ne va pas aimer que je le dise, mais je crois que c’est un génie !
+
+<b>Daniel Buren, Ora Ïto pourrait-il être l’un de vos héritiers ?</b>
+<b>D.B.</b> [Rires.] Je n’oserais pas le dire… Quand je l’ai rencontré la première fois, à l’occasion de notre projet commun à la Cité radieuse de Marseille, je savais très peu ce qu’il faisait. J’ai découvert quelqu’un de rapide dans le coup d’œil, la vision globale. Il dessine très vite une ligne forte. Et c’est essentiel !
+Qu’un plasticien s’attelle à un hôtel, n’est-ce pas un peu tabou dans le milieu de l’art contemporain ?
+<b>O.Ï.</b> Il y a beaucoup de snobisme. On a l’impression qu’il existe comme une secte d’art contemporain à laquelle il faudrait appartenir et suivre les règles. Pour moi, il n’y a pas de sous-projet. Je peux m’investir dans l’élaboration d’une petite cuillère comme dans celle d’un hôtel ou d’un tramway. Mais moi je fabrique des objets. Je ne suis pas un artiste.
+<b>D.B.</b> Il faut être libre. Je ne fabrique pas d’objets comme 99 % des artistes contemporains. Je ne peins pas de tableaux. Je n’ai pas d’atelier. Je vois comment le lieu me touche, qu’il soit public ou privé. Je tire un fil et vois quelles incidences cela engendre. Il y a un afflux de possibilités que j’explore librement.
+
+<b>Diriez-vous que cet hôtel est une œuvre d’art ?</b>
+<b>O.Ï.</b> Je dirais plutôt que c’est un travail qui ressemble à ce qui se faisait au moment du Bauhaus ou de la Renaissance… C’est un ensemble de personnes aux différentes compétences qui s’associent pour créer une sculpture, un bâtiment, un tableau…
+<b>D.B.</b> Je n’emploie jamais le mot art. Je ne dis jamais que je fais de l’art, même si je suis plus artiste que plombier-zingueur. Je n’ai jamais dit que les colonnes dans la cour du Palais-Royal étaient une œuvre d’art. La dénomination art est définie par le temps, la société, l’environnement. C’est plus fragile mais plus juste de dire que je fais une proposition dans le domaine du visuel. C’est comme un cadeau que j’offre.
+
+<b>Pour être contemporain, faut-il être contestataire, provocateur, anticonventionnel ? </b>
+<b>O.Ï.</b> Ce qu’a fait Daniel Buren il y a trente ans, avec ses colonnes était courageux. Le projet a choqué. Il a fallu s’habituer. Et puis, au fur et à mesure des années, il s’est imposé, devenant intemporel et presque une évidence. Il a réveillé le quartier et permis de lire la beauté du lieu.
+<b>D.B.</b> Il faut avoir de l’audace. Et ce garçon [en désignant Ora Ïto], je peux dire qu’il n’a pas froid aux yeux.
+
+<b>Ïto-Buren : est-ce un duo qui va durer ?</b>
+<b>D.B.</b> Pourquoi pas. Ce métier d’artiste est normalement d’être seul, mais moi je préfère travailler en équipe.
+<b>O.Ï.</b> Pour moi c’est un plaisir énorme. Nous avons remporté trois nouveaux concours ensemble. La place Castellane et le quartier de la gare routière à Marseille. Et un projet à Monaco. Ce n’est peut-être qu’un début…
+
+Par Florence Saugues

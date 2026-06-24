@@ -1,0 +1,17 @@
+---
+layout: article.njk
+title: "CREE — Ora ïto designer et bien plus..."
+locale: "en"
+published_date: "September 13, 2016"
+Rubric: "Press"
+project_tag: "Ora ïto"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/AIR_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/Ito_Cree_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/CREE_Couv_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2016/09/Ito_Cree_1960x1120.jpg"
+---
+<em>Auteur : Christophe Le Gac</em>
+<em>Texte retranscit par Emma Nubel</em>
+
+ 

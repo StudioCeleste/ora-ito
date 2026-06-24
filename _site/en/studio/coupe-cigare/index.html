@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Cigar Cup — Ora-ïto</title>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&amp;family=Spline+Sans+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<link href="/assets/style.css" rel="stylesheet"/>
+<!-- CMS Netlify Identity Widget -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="/en/">ora<span class="dot">·</span><b>ïto</b></a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+      <nav class="main">
+
+        <a href="/en/profil/">Profile</a>
+        <a href="/en/projets/">Projects</a>
+        <a href="/en/mamo/">MAMO</a>
+        <a href="/en/news/">News</a>
+        <a class="lang-switch" href="/studio/coupe-cigare/" style="margin-left: 20px; font-weight: 500;">FR</a>
+
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="wrap detail">
+  <div class="crumb">
+    <a href="/en/">ora·ïto</a> — 
+    <a href="/en/projets/">
+      projects
+    </a> — Cigar Cup
+  </div>
+
+  <div class="dhead">
+    <div>
+      <h1>Cigar Cup</h1>
+    </div>
+    <div class="dmeta">
+      <div><span class="k">Category</span> Accessories</div>
+      <div><span class="k">Brand</span> Christofle</div>
+      <div><span class="k">Collection</span> Christofle</div>
+      <div><span class="k">Year</span> 2009</div>
+    </div>
+  </div>
+
+  <div class="body">
+    <p style="text-align: justify;">Faithful to its philosophy, Ora-ïto designs a collection with a very studied simplicity which conceals an extremely elaborate development. Simplexity, a sign of recognition of its universe, is quite evident here.</p>
+<p style="text-align: justify;">The cigar humidor and the cigar cutter elegantly interpret this world of enlightened amateurs. Used in full compliance with good practice inside the cellar, the cedar wood is in perfect harmony with the exterior shine of the black lacquer.</p>
+  </div>
+
+  
+  <div class="gal reveal">
+    
+    <figure><img alt="Cigar Cup" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/424.jpg"/></figure>
+    
+    <figure><img alt="Cigar Cup" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/521.jpg"/></figure>
+    
+    <figure><img alt="Cigar Cup" loading="lazy" decoding="async" src="https://www.ora-ito.com/wp-content/uploads/2014/01/622.jpg"/></figure>
+    
+  </div>
+  
+</div>
+
+
+<footer class="site">
+  <div class="wrap">
+    <div class="foot">
+      <div class="big">simplicity is<br/>the ultimate<br/>sophistication<span class="dot">.</span></div>
+      <div class="small">Studio Ora-ïto<br/>
+
+      Product design · furniture · architecture<br/>Paris — since 1998
+
+      </div>
+    </div>
+
+  </div>
+</footer>
+<script src="/assets/app.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+</body>
+</html>

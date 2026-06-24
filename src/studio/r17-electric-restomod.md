@@ -1,0 +1,57 @@
+---
+layout: project.njk
+title: "R17 electric restomod"
+locale: "fr"
+category: "Transport"
+brand: "Renault"
+collection: "Édition limitée"
+year: "2024"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_06_1960x1120_greyS.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_02_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_00_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_03_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_04_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_05_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P6_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P7_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P8_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P9_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P10_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P11_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P12_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P13_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P14_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/10/R17_P15_1960x1120.jpg"
+---
+<b>Basé sur l’emblématique coupé sportif Renault 17, R17 electric restomod x Ora ïto est une réinterprétation sculpturale de ce modèle né en 1971.</b>
+
+Des collaborations uniques qui réinterprètent des modèles emblématiques. Depuis 2021, Renault a présenté plusieurs projets créatifs uniques qui réinterprètent l’extraordinaire patrimoine de la marque, riche de modèles iconiques qui font partie de la pop culture.  Ces projets montrent la capacité de la marque à fusionner patrimoine, design et innovation. C’est un territoire de jeu et d’expression extraordinaire pour des designers contemporains. Renault fait aujourd’hui appel à l’imaginaire créatif de Ora ïto, l'un des designers les plus avant-gardistes de sa génération pour réinventer l'esthétique de Renault 17, offrant ainsi une vision audacieuse et moderne de cette voiture historique.
+
+Cette année, Renault annonce une nouvelle collaboration inédite entre le designer Ora ïto et les équipes Design Renault pour donner vie à un show-car restomod unique basé sur le légendaire modèle Renault 17.
+<p class="feat-p" style="font-weight: 400;">« <em>Revisiter un véhicule emblématique comme la Renault 17, en exprimant ma vision pour en faire une sculpture qui me ressemble, a été un défi particulièrement excitant partagé avec Renault.</em> » Ora ïto</p>
+<b>Arnaud Belloni, Chief Marketing Officer Renault Group and Brand :</b>
+
+« <em>R17 restomod, réinterprétée par Ora ïto, incarne parfaitement notre vision d'unir héritage et innovation. Véritable icône des années 70, R17 s'est imposée comme une figure de la pop culture par son design avant-gardiste et son caractère audacieux. Ce projet célèbre le design iconique de Renault tout en intégrant des éléments contemporains, offrant une expérience qui transcende les générations. Chez Renault, nous sommes fiers de collaborer avec des talents audacieux comme </em>Ora ïto<em> pour réinventer nos modèles emblématiques tout en restant fidèles à l'esprit de la marque.</em>»
+
+<b>Renault 17 : le coupé sportif au design avant-gardiste</b>
+<p style="font-weight: 400;">Présenté en 1971, Renault 17 était un concentré de l’explosion idéaliste des années 1970. Ce coupé sportif aux lignes épurées – proposé sous la forme d’un coupé quatre places ou d’une découvrable – se distinguait par son allure et des performances qui incarnaient parfaitement l’esprit de l’époque. Traction avant, moteur longitudinal, puis arrivée de l’injection, sécurité active et passive, Renault 17 jouait autant de sa technique que de l’élégance de ses lignes angulaires et de son intérieur travaillé pour séduire une clientèle exigeante. Plus de 92 000 exemplaires ont été produits entre 1971 et 1979.</p>
+<b>Ora ïto : le design contemporain signé de simplexité</b>
+<p style="font-weight: 400;">R17 electric restomod x Ora ïto est une pièce unique qui ne préfigure pas de futur véhicule de série.  Dessiné sous la forme d'un restomod par Ora Ïto, il a été développé en collaboration avec les équipes du Design de Renault.</p>
+<b>Ora ïto :</b>
+
+« <em>Avec Sandeep (Bhambra) et Gilles (Vidal), nous avons travaillé ensemble sur un thème rétrofuturiste, presque cinématographique. J’ai voulu draper Renault 17 d</em><em>’</em><em>une seconde peau pour la magnifier et la ramener dans notre époque avec ma propre grammaire : de la fluidité, du dynamisme, de la rationalité et ma signature : la simplexité. J</em><em>’</em><em>ai voulu simplifier des éléments complexes</em>. »
+<p style="font-weight: 400;">Figure emblématique du design contemporain, le Français Ora ïto est un enfant des années 1970. Révélé par des créations avant-gardistes et une approche audacieuse, Ora ïto s’est fait un nom en piratant les plus grandes marques par des produits numériques. Adepte de la simplexité, mêlant simplicité et complexité, il est un phénomène passé par la culture pop, qui collectionne les plus belles collaborations et les récompenses à travers le monde. R17 electric restomod x Ora ïto est sa première œuvre conjointe avec Renault.</p>
+<p style="font-weight: 400;">En mettant l'accent sur le respect de l'histoire et l'intégrité de Renault 17, ce show-car intègre également des éléments de restomod, combinant le charme classique de la voiture d'origine avec des technologies et des matériaux contemporains. Cette approche crée une synergie entre le passé et le présent, offrant ainsi une expérience moderne tout en préservant l'essence même de Renault 17.</p>
+<b>Version rétrofuturiste, élégante et racée de R17</b>
+<p style="font-weight: 400;">Coupé deux portes avec hayon, Renault 17 arborait un design au caractère sportif accentué par ses quatre phares ronds, ses portes sans encadrement de vitres, son absence de montant central, ses vitres latérales arrière entièrement escamotables et la glace de custode agrémentée de jalousies.  Conçue sur la structure monocoque du véhicule d’origine, R17 electric restomod x Ora Ïto conserve la cabine, les portes, fenêtres, vitrages et joints ainsi que les surfaces d’appuis techniques.</p>
+<p style="font-weight: 400;">La voiture a été élargie (+17 cm) pour une meilleure tenue de route. Ses ailes et ses roues extériorisées donnent à la voiture un look à la fois spectaculaire et élégant.</p>
+<p style="font-weight: 400;">R17 electric restomod x Ora ïto se veut résolument moderne comme le montrent ses phares en quatre modules rectangulaires à coins arrondis ou encore ses feux arrière simplifiés en un seul bandeau traversant. Elle intègre également une motorisation 100 % électrique de 270 chevaux, implantée à l’arrière du véhicule.</p>
+<p style="font-weight: 400;">Sa carrosserie <em>flush</em>, toute en carbone, lui confère un poids contenu d’1,4 tonne. Elle arbore aussi une teinte Brun Galactique originale, spécifiquement développée pour le show-car.</p>
+<p style="font-weight: 400;">À l’intérieur, tel un véritable véhicule de tourisme, R17 se parait d’un poste de conduite adapté, de sièges confortables, d’équipements complets et affichait une finition soignée. La version restomod conserve cet univers confortable en intégrant des modifications sur la planche de bord et la console centrale d’origine. Les sièges, redessinés autour de la structure des sièges « pétales » d’origine, se parent de nouveaux tissus inspirés de l’ameublement : un satin chiné en laine Mérinos très fine pour le tissu marron et un bouclé de laine léger et délicat, haut et épais pour le tissu beige. Enfin, résolument contemporaine, R17 electric restomod x Ora Ïto est équipée d’un écran central intégrant l’environnement graphique Renault d’aujourd’hui et de quatre petits écrans géométriques derrière le volant renouvelant l'esprit des compteurs d'époque.</p>
+<b>Ora ïto :</b>
+<em>« Nous avons respecté les éléments les plus identitaires de Renault 17, en partant de sa face avant. Ensuite, j’ai apporté de la fluidité et de l’élégance, mais sans jamais dénaturer R17. L’histoire de Renault 17 et sa ligne de coupé sportif sont conservées. J’ai voulu apporter mes codes en amplifiant certains éléments pour les rendre plus intemporels, avec des touches plus futuristes, notamment grâce aux jantes. L’intérieur reprend également ma signature. Nous avons téléporté Renault 17 dans son futur en lui appliquant quelques subtiles évolutions qui changent tout. Nous avions une phrase clé : ‘le détail n’est pas un détail’. Le tout conserve une certaine ambivalence, car elle se veut aussi ludique que sérieuse. Renault possède une identité forte et ça me plait.</em> <em>On reconnait une Renault et ce restomod ne déroge pas à cette règle</em>. »
+
+<b>Sandeep Bhambra, Chief designer concept cars Renault :</b>
+<p style="font-weight: 400;"><em>« La réinterprétation artistique de R17 était un formidable terrain d’exploration pour créer quelque chose d’inattendu et de mémorable. Le dialogue créatif entre Ora ïto et nos équipes Design restitue la silhouette et l’essence même de R17 tout en produisant un objet minimaliste, hyper contemporain. À bord, les grandes thématiques originelles de R17 sont réinterprétées avec la vision d'Ora ïto. Le traité des formes, très géométrique, emporte les passagers dans l’univers confortable du mobilier et de l’habitat. » </em></p>

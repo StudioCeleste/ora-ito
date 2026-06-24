@@ -1,0 +1,25 @@
+---
+layout: article.njk
+title: "AD Architecture — Dan Graham à la Cité radieuse de Le Corbusier"
+locale: "en"
+published_date: "September 16, 2015"
+Rubric: "Press"
+project_tag: "MAMO"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2015/07/MAMO_DG_9_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2015/07/MAMO_DG_7_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2015/07/MAMO_DG_6_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2015/07/MAMO_DG_10_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2015/07/MAMO_DG_8_1960x1120.jpg"
+---
+Le toit-terrasse de la Cité radieuse accueille en ce moment une belle carte blanche offerte à l’artiste Dan Graham, baptisée Observatory Playground. « <em>J’avais une liste de dix artistes dont j’admire le travail mais, cette année, je voulais que ce soit Dan. Il a hésité, vu la force émanant de l’endroit</em> », raconte Ora ïto, qui a fini par avoir gain de cause. Et semble toujours ne pas en revenir, mitraillant non stop avec son Iphone les « mobiles immobiles » de l’artiste, fraîchement installés. Des œuvres réalisées pour le lieu et l’occasion « <em>qui changent avec les variations du temps</em> », précise Dan Graham.
+
+La partie à ciel ouvert de la terrasse est fidèle au minimalisme de Dan Graham. Deux sculptures architecturales uniques y ont été bâties, toutes de verre, d’acier et de bois. « <em>La simplicité que dégagent ces pavillons n’est pas à l’image du travail en amont </em>», souligne Ora ïto. Il a fallu en effet calculer le poids que pouvait supporter la structure sur pilotis de la Cité ; et, pour les installer, une grue et quelques centaines d’étais, qu’il a fallu dissimuler, ont été nécessaires.
+
+L’un des pavillons reprend l’ondulation d’une vague. Nous sommes bien à Marseille. Le dialogue entre Dan Graham, Le Corbusier et le spectateur prend forme. Sous forme de jeu. Un jeu surprenant de diffraction de la lumière, de pénétration environnementale... En fonction de la position du spectateur, de l’heure ou de la météo, la perception, les lois de la perspective ne cesse d’être troublée : un moment, la réflexion double de l’escalier conçu par Le Corbusier se découvre, un autre ; c’est la montagne qui se dédouble, et au milieu : soi-même. En toute liberté Dan Graham sollicite tous les sens du public, de la vue au toucher. Le sixième sens serait de se laisser porter, comme les sculptures entre ciel et terre.
+
+Une porte délimite « <em>le pan futuriste de l’exposition exprimé par les deux pavillons extérieurs du pan passéiste à l’intérieur</em> », commente le designer. Une fois franchie, sous le dôme d’origine, on découvre une rétrospective chronologique du travail de Dan Graham, fou d’architecture, au travers de sept maquettes, telles le Yin/Yang (1998). Et, derrière, des performances vidéo mêlent des thèmes chers à l’artiste, comme le rock, à des captations  faite par lui-même, du public regardant ses œuvres. C’est l’aspect didactique de l’exposition et il est bienvenu. Reste à savoir si Dan Graham, d’ici le 20 septembre, nous filmera nous aussi, regardant ses œuvres.
+
+Centre d'art de la Cité radieuse, 280 Boulevard Michelet, Marseille. Jusqu'au 20 septembre.
+
+PAR INÈS DAÏF

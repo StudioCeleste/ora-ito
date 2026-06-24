@@ -1,0 +1,26 @@
+---
+layout: project.njk
+title: "Yooma Hotel"
+locale: "en"
+category: "Architecture"
+brand: "Yooma"
+year: "2017"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_03_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_57_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_15_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_26_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_21_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_49_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_39_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_32_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_09_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2017/10/Yooma_07_1960x1120.jpg"
+---
+<b>Ora Ito</b> And <b>Daniel Buren</b> sign the building of the new hotel concept <b>Yooma</b>. Installed on the Front de Seine, a stone's throw from the Eiffel Tower, the intervention by Daniel Buren and Ora Ito is a synthesis of the unique context offered by this Parisian district with its twenty towers placed on a mineral slab like so many typical objects from the seventies. A landscape of aluminum and concrete cinema (Wim Wenders, Henri Verneuil, Michel Gondry and Claude Lelouch came to film there). The raw material used by the two creators to rebuild this old office building at the invitation of Pierre Beckrich, initiator of Yooma and great admirer of Corbusier's vision. The Cité Radieuse conceived as a vertical village is the link between the initiator/promoter and the designer. Yooma like humanity, a neologism that sums up the hotel’s desire to live together. The family-friendly answer to Airbnb.
+
+Ora Ito adds a floor to the existing structure, levitates all of the one hundred and six rooms on an entirely glass lobby, then curves the building with a timeless aluminum shell to blend harmoniously into the context. A Transforming architecture, nourishes neighboring architectures, ready to awaken and unfold its metal members with softened curves. Daniel Buren projects a deep blue across the hotel according to a precise pattern. An explosion that passes through the building to structure it. Graphic bursts punctuate the lobby and the corridors before perforating the facade. With blue and the iconic black and white bands, Daniel Buren sculpts the facade of solids and voids offering the largest lasting intervention by the artist in Paris after the Palais Royal.
+
+With Yooma, Daniel Buren and Ora Ito invent a vibrant building like the frozen image of a transformation: the explosive renovation of the Front de Seine begun in 2005 which will end with the inauguration of Yooma in 2017. A complicit discussion between art and design where no creator speaks louder than the other. The rooms designed by Ora Ito meet the constraints of space, privacy and conviviality for this hotel where you can stay as a couple, family or group, at the best price. The designer offers a visual and sensual journey towards the intimate in several stages.
+
+The raw concrete accompanies guests in the entrances and corridors of the rooms, like an architectural extension of the exterior. Then arriving in the rooms, the bold colors, red, green, blue, yellow welcome visitors to the common living area. Before ending with an ultimate degree of intimacy: the pods imagined by the designer with wood-paneled ceilings like cozy little cabins. These pods are micro mezzanine architectures, closed by sliding walls, each with its storage shelf, its lamp, its two USB sockets and its classic electrical socket. Connected intimacy. Enthusiasts will recognize the graphic spirit of Mondrian, the functional rigor of Charlotte Perriand and the single-line, fine and rational design of Ora Ito.

@@ -1,0 +1,33 @@
+---
+layout: article.njk
+title: "TECHNIKART — L’Art selon Ora ïto : Entre Réalité et Réinvention"
+locale: "en"
+published_date: "August 23, 2024"
+Rubric: "Press"
+project_tag: "Ora ïto"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2024/11/Technikart_01_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/06/Grammatology_06_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/11/Officiel_03_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/07/Grammatology_II_04_1960x1120.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2024/07/Grammatology_II_02_1960x1120.jpg"
+---
+Par Victoire Partouche
+
+<b>Difficile de ne pas demeurer subjugué par la trajectoire d’Ora ïto. En 1997, débute un parcours d’audace sans pareil en piratant les plus grandes marques de luxe avec une série d’œuvres virtuelles bien avant le metavers. Ses <em>« Virtual Products » </em> bouleversent les conventions et propulsent le jeune homme de 19 ans sur le devant de la scène mondiale. Il est le premier artiste « digital » dont les œuvres sont intégrées à la collection permanente du Centre Pompidou et reflètent une vision avant-gardiste. Mais pour cet artiste visionnaire, ce n’était que le début.</b>
+
+À travers ses collaborations, Ora ïto s’affirme comme un innovateur audacieux, repoussant sans cesse les frontières de l’esthétique contemporaine. Chacune de ses créations est une sculpture en soi. Des objets iconiques allant de l’écrin de la légendaire poudre terracotta au parfum Guerlain, aux plus grands éditeurs de mobilier italien tels que Cassina, Cappellini, Artemide ou encore un set d’art de la table pour Christofle. Mais son influence ne s’arrête pas là. L’empreinte du studio Ora ïto se retrouve également dans le domaine de l’architecture et de la mobilité, où il laisse sa marque en concevant des cinémas Pathé, le métro de Marseille, en allant même jusqu’à transpercer la ville de Nice de l’aéroport au port pour son tramway en collaboration avec Alstom, ou encore créer une soucoupe volante pour Citroën ! Chevalier de l’Ordre des Arts et des Lettres, Ora ïto contribue au patrimoine artistique de la cité phocéenne en fondant le MAMO en 2013 (un centre d’art niché sur le toit-terrasse de la Cité Radieuse conçue par Le Corbusier), enrichissant ainsi le paysage culturel de Marseille. Space Invaders, Daniel Arsham, Xavier Veilhan, Jean-Pierre Raynaud, Dan Graham, Sterling Ruby, Urs Fischer, Olivier Mosset, Alex Israel, ZEVS, Felice Varini se sont vus offrir carte blanche par Ito qui a tissé par la suite des liens privilégiés avec ses artistes. Notamment avec Daniel Buren, cette belle complicité a donné naissance à une collaboration fructueuse sur divers projets architecturaux.
+
+Chaque projet témoigne de son engagement à repousser les limites de la créativité et de l’innovation. Comme il le dit lui-même :
+<p class="feat-p"><em>« Je me suis toujours considéré comme un designer, mais j’utilise l’architecture et le design comme un médium. Après avoir créé ce monde il m’a semblé évident de revenir aux formes, mon langage volumique qui caractérise l’ensemble de mon travail de designer mais sans la fonction, sans l’industrie, sans la commercialisation, sans marque. »</em></p>
+Dans une première exposition « <em>Grammatology »</em>, son art prend tout son sens. On y découvre l’Alphabet Ora ïto qui dépasse largement le statut de simple série de formes sculpturales. Comme des lettres qui ensemble créent des mots, ses œuvres sont des formes qui créent le langage de l’époque. L’artiste nous dévoile une nouvelle facette de son génie créatif, transcendant les limites du réel pour nous plonger dans un univers que l’IA ne peut pas imiter, une invitation à revenir aux sources où la simplicité est élevée au rang d’art. C’est là toute la magie d’Ora ïto qui, à travers ses œuvres, nous émerveille devant la beauté du monde et de ses formes géométriques les plus élémentaires ■⬤▲, omniprésentes dans l’architecture et les objets qui nous entourent.
+
+Cette fois-ci, il ne pirate pas de marques, mais l’art lui-même, explorant des formes archétypales telles que la ligne, le cercle, le carré et le rectangle. Par sa virtuosité, il parvient à insuffler une fraîcheur inédite de ces éléments familiers, offrant ainsi une perspective jamais encore explorée. Technikart ne saurait négliger l’aspect technique, où le corps minéral contraste avec les couleurs vives, tout en assurant une jonction harmonieuse entre les formes monochromes. Une déclaration catégorique émane de l’artiste : « Plus qu’un monochrome, je ne pouvais pas. » Les teintes affichent une pureté sans détour. Leurs éclats subliment la rigueur des formes, insufflant à l’ensemble une touche pop , hommage à Andy Warhol.
+
+Cette vision d’un nouveau langage sculptural où les mots se font abstraits et les formes deviennent poésie, est à découvrir du 15 mai au 15 juillet 2024 à la Galerie Podgorny à Saint-Paul-de-Vence. Ora ïto a choisi Saint-Paul-de-Vence, son village de cœur afin de renouer avec ses souvenirs d’enfance. C’est là, dans cette même rue où son grand-père, éminent propriétaire de la galerie Frédéric Golon, illuminait ses murs des créations de Max Ernst, Jean Arp et Picasso, que l’artiste a choisi de poser les fondations de sa propre demeure pour y vivre une partie de l’année. Cette ville où ont résidé tellement de génies artistiques, Matisse, Braque, Chagall, Calder, Miro, Modigliani, Picasso, Prévert et j’en passe, est en soit déjà un musée à ciel ouvert, tout comme le MAMO. Saint-Paul de Vence continuera de s’enrichir en accueillant des sculptures pour un hors les murs de l’exposition dans le Lavoir.
+
+Un passage obligé dans le sud de la France pour être témoin d’une nouvelle ère où les frontières entre design, architecture et art s’estompent, pour laisser place à une créativité sans limite, où chaque forme, chaque couleur, chaque ligne raconte une histoire.
+
+<b>« Grammatology » à la Galerie Podgorny,</b>
+<b>Place du Général de Gaulle, 06570 Saint-Paul-de-Vence.</b>
+<b><a href="https://www.instagram.com/podgornygallery/" rel="noopener" target="_blank">@podgornygallery</a> <a href="https://www.instagram.com/ora_ito/" rel="noopener" target="_blank">@ora_ito</a></b>

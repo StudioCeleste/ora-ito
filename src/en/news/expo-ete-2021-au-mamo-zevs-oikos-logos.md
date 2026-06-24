@@ -1,0 +1,87 @@
+---
+layout: article.njk
+title: "Exposition de l'été 2021 au MAMO : Zevs — Oïkos Logos"
+locale: "en"
+published_date: "June 23, 2021"
+Rubric: "Events · Featured"
+project_tag: "MAMO"
+gallery:
+  - "https://www.ora-ito.com/wp-content/uploads/2021/10/ZEVS_05_1300x700.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2021/10/ZEVS_04_1300x700.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2021/10/ZEVS_01_1300x700.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2021/10/ZEVS_06_1300x700.jpg"
+  - "https://www.ora-ito.com/wp-content/uploads/2021/10/ZEVS_03_1300x700.jpg"
+---
+<div>
+<b>Ora Ito et le MAMO présentent Oïkos Logos, une exposition personnelle de l’artiste Zevs, du 23 juin au 19 septembre 2021. Déployé sur le toit de la Cité radieuse, ce solo show réunit un ensemble de trois séries de peintures "Jet Painting", "Septic Paintings" et "Evolution Series", et de trois sculptures "Le meilleur pour la fin", "Labitation" et "Manpower".</b>
+</div>
+<div>
+
+De la racine grecque Oïkos (maison) et Logos (science, connaissance), l’exposition est articulée autour de la question de l’écologie et propose une réflexion sur les relations entre l’humain, ses activités et son environnement. Dans la Cité radieuse, l’artiste alerte sur la dérive de l’humanité qui joue avec le feu.
+
+</div>
+<div>
+
+Zevs, alias Aguirre Schwarz, est un artiste vivant à Paris et Berlin. Son travail, satirique et engagé, invite à l’introspection sur nos modes de consommation et questionne les travers d’une société consumériste de manière cynique et décalée.
+
+</div>
+<div>
+
+Zevs réaffirme ici son statut d’artiste engagé en révélant la fragilité du monde : pollution atmosphérique, eaux troubles et fonte des glaces, témoignent d’un environnement dégradé par l’hyperactivité humaine.
+
+</div>
+<div>
+
+La première série Jet Painting présente un diptyque, comme une invitation au début de l’exposition, une promesse d’accueil dans un lieu sûr et confortable pour l’humain.
+
+</div>
+<div>
+
+L’exposition présente ensuite la série des Septic Paintings, une composition réalisée d’après les recherches de Richard Heede, qui soutient que le tiers des émissions de gaz à effet de serre, généré depuis 1965, provient des 20 géants du pétrole.
+
+</div>
+<div>
+
+La troisième série, intitulée Evolution, présente huit toiles inspirées des oeuvres de David Hockney, A Bigger Splash de 1967 et des Nymphéas de Claude Monet. À travers huit représentations d’une même villa californienne, l’artiste dénonce une économie consumériste, alimentée par les énergies fossiles et nous invite à réfléchir au rôle de l’homme dans la surexploitation des ressources de la planète.
+
+</div>
+<div>
+
+Pour sa sculpture Le meilleur pour la fin, Zevs crée une planète en renversant les éléments : le noyau terrestre, métallique, a migré vers sa croûte, formant une armure, comme pour la protéger. L’artiste sublime les éléments pour mieux en plaider la cause.
+
+</div>
+<div>
+
+Au centre de l’espace, la sculpture Manpower est réalisée d’après le Modulor, à partir de trois mesures qui ont un rapport égal au nombre d’or. Zevs nous parle ici de démesure, celle de l’homme se croyant tout puissant, mais se révélant inconséquent.
+
+</div>
+<div>
+
+Point d’orgue de cette exposition, Zevs crée son propre paratonnerre avec la sculpture Labitation en cuivre, bronze et cristal. Instrument prométhéen permettant à l’homme de ravir l’éclair aux cieux, cette sculpture érectile conduit symboliquement l’électricité dans l’oeuvre de Le Corbusier.
+
+</div>
+<div>
+<b>MAMO NFT STORE</b>
+En transformant le concept de boutique de musée en projet Work in progress, Zevs anticipe la « tokenisation » du monde en détournant les logos des entreprises. Leur identité visuelle se fond dans ce nouvel acronyme : NFT. Brodés ou imprimés sur des produits manufacturés, ces crypto logos liquidés deviennent la marque et le processus qui constituent la nature même de ses NFT. Ici, chaque élément du magasin est la partie d’un tout. Physique ou digital, chaque objet est un fragment de l’oeuvre finale qui s’achèvera à l’épuisement des stocks.
+
+</div>
+<div>
+<b>EXPOSITION OÏKOS LOGOS</b>
+Du 23 juin au 19 septembre 2021
+MAMO — CENTRE D’ART DE LA CITÉ RADIEUSE
+Unité d’habitation Le Corbusier
+280 boulevard Michelet, 13008 Marseille
++33 1 42 46 00 09 / mamo.fr / @MarseilleModulor
+
+</div>
+<div>
+<b>CONTACT PRESSE</b>
+Agence Communic’Art
+Hortense de Pelleport
+hdepelleport[at]communicart.fr
++33 6 52 60 07 38
+
+</div>
+<div>
+<em><span lang="EN-US">© Zevs 2021, courtesy of the artist, photos : Benoit Pailley</span></em>
+</div>
